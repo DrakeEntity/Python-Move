@@ -1,22 +1,23 @@
-# Python-Move
- Python-Move Program To Move TextFile,Image,Video Automaticlly
+# FileMover
+ Python Automation To Arrange Files In One Click
 
 ##### Introduction
-Python-Move Is a Python program to move file automatic with help of Python 3.0+.
+Python Automation To Arrange Files In One Click with help of Python 3.0+.
 
-# Warning
- - Put in Downlod Folder
- - Open __init__.py and Give Full RooT to Your Download Folder Like This at Line 21
- 
-root = 'C:/Users/User/Downloads'
+# How To Run 
+ - Put in Downlod Folder Or Wherever You want to automaticlly move file and Just run
+ - To use with GUI install Tkinter
 
- ## Installation
+![](https://raw.githubusercontent.com/codePerfectPlus/Python-Move/master/Py-Mover%20GUI.png)
+
+## Installation
 
 - This is A python 3 pacakge.
 - Install python 3.0+ or Anaconda 3.0+
+- Run Normal file without any Additional package
 
 ## Usage
-Python-Move Is a Python program to move file automatic with help of python.
+FileMover Is a Python program to move files automatically with the help of Python.
 Python is a scripting Language.
 
 ## Support
